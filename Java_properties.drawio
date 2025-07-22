@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="lw6xK0Vc_ANH6Joyd6xl">
+    <mxGraphModel dx="1164" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-12" value="OOPs FEATURES" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=25;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-13" value="100%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-14" value="100%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.4;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-15" value="100%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.25;arcWidth=0.4;strokeColor=none;fillColor=#AE4132;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-16" value="100%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.6;arcWidth=0.4;strokeColor=none;fillColor=#23445D;fontSize=22;fontColor=#23445D;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-17" value="100%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.8;arcWidth=0.4;strokeColor=none;fillColor=#12AAB5;fontSize=22;fontColor=#12AAB5;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-18" value="Platform&amp;nbsp;&lt;div&gt;Independent&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#10739E;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-19" value="Inheritance&lt;div&gt;Property&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#F2931E;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-20" value="Abstraction&lt;div&gt;Property&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#AE4132;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-21" value="Encapsulation&lt;div&gt;Property&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#23445D;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-22" value="Polymorphism&lt;div&gt;Property&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#12AAB5;align=center;fontStyle=1;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-23" value="&lt;font style=&quot;color: light-dark(rgb(13, 92, 106), rgb(54, 149, 239));&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;Java is a platform independent Object Oriented Programming Language&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(23, 134, 238);&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-24" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(194, 118, 24), rgb(255, 255, 255));&quot;&gt;In Java it automatically inherits the property of the parent class to&amp;nbsp; child class&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-25" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;color: light-dark(rgb(174, 65, 50), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Using the features or class without knowing the backend / internal complications&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;color: light-dark(rgb(174, 65, 50), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-26" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(35, 68, 93), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;In JAVA OOP all the implementation details are into a single unit called class&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GHJRQyVZAarm9RZcv-O7-27" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(18, 170, 181), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;&quot;Many Forms&quot; - It gives a single interface for multiple implementation&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(18, 170, 181), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;dashed=1;dashPattern=1 2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="100" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
