@@ -1,4 +1,4 @@
-// to find the quadratic equation
+// to find the real solution of quadratic equation
 import java.util.*;
 
 public class Quadratic {
