@@ -1,6 +1,6 @@
 // To print Name and Address
 
-class main{
+public class main{
     public static void main(String[] args){
         System.out.println("My name is Daryl Dixon.");
         System.out.println("Address:- South Carolina");
